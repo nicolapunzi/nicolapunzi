@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true
+[![trophy](https://github-profile-trophy.vercel.app/?nicolapunziryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
