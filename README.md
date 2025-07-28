@@ -1,78 +1,91 @@
-<h1 align="center">Hi there 👋, I'm Nicola Punzi</h1>
+<h1 align="center">Hi 👋, I'm Nicola Punzi</h1>
+<h3 align="center">Tech Manager · Software Engineer · Platform Builder</h3>
 
 <p align="center">
-  <b>Tech Manager • Software Engineer • Platform Architect</b><br>
-  Building fintech and healthtech solutions across Africa and Europe 🌍
+  🌍 From Italy to Africa, I build robust digital platforms <br>
+  💸 Fintech | 🏥 Healthtech | 📲 Mobile | 🛠 APIs | 🌐 Web | 💡 Innovation
 </p>
 
 <p align="center">
   <a href="mailto:nicolapunzi3@gmail.com"><img src="https://img.shields.io/badge/email-nicolapunzi3@gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/nicolapunzi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Nicola%20Punzi-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/nicolapunzi" target="_blank"><img src="https://img.shields.io/github/followers/nicolapunzi?label=Follow&style=social"></a>
+  <a href="https://www.linkedin.com/in/nicolapunzi/"><img src="https://img.shields.io/badge/LinkedIn-Nicola%20Punzi-blue?style=flat-square&logo=linkedin"></a>
+  <img src="https://komarev.com/ghpvc/?username=nicolapunzi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎯 I'm a **Tech Manager at Zeepay**, building platforms that enable mobile money, digital payments, and USSD banking across Africa.  
-💡 I have experience leading full-cycle projects from **API design to mobile UX**, with strong collaboration across product, compliance, and marketing teams.
-
-📍 International experience across **Italy 🇮🇹, Ghana 🇬🇭, Senegal 🇸🇳, and Ethiopia 🇪🇹**  
-❤️ Passionate about using tech to solve real-world problems in **finance, healthcare**, and **social development**.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-| Area | Tools & Frameworks |
-|------|--------------------|
-| **Languages** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) |
-| **Frameworks** | ![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat&logo=laravel) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code) |
-| **Other** | Google Maps API, Leaflet.js, MapServer, HighCharts, HTML/CSS, Android SDK |
-
-</div>
+- 💼 Tech Manager @ Zeepay (Ghana) — Building APIs, USSD banking, agent systems, and digital wallets.
+- 🌍 Experienced across Italy 🇮🇹, Ghana 🇬🇭, Senegal 🇸🇳, Ethiopia 🇪🇹.
+- 🤝 Advocate for **open source**, collaboration, and **tech for social good**.
+- 🎓 Biomedical Engineer turned Full-Stack Dev & System Architect.
 
 ---
 
-## 📌 Projects & Highlights
+## 🛠️ Tech Toolbox
 
-- 🧾 **USSD Banking & Digital Wallets** – Architected robust platforms at Zeepay, powering digital finance across Ghana.
-- 🏥 **OpenHospital Customisation** – Improved healthcare data systems in Ethiopia & Senegal with Informatici Senza Frontiere.
-- 📡 **Geo Mapping Platform** – Tracked real-time GPS & weather sensor data for agricultural ops in Senegal.
-- 📱 **Mobile Apps** – Built a Flutter expense tracker and Android app for local commerce discovery (Teedip).
-- 🥇 **Hackathon Winner** – Best Innovative Idea at Autogrill x H-Farm Hackathon, modernizing the Italian café experience.
-
----
-
-## 📖 Education & Training
-
-🎓 **M.Sc. in Biomedical Engineering**, Università di Pisa  
-📊 **Business Data Analysis** – TAG Innovation School  
-💻 **Codemaster Bootcamp** – TAG Innovation School  
+| Category     | Skills |
+|-------------|--------|
+| 💻 **Languages** | PHP, Java, Python, JavaScript, SQL |
+| 🚀 **Frameworks** | Laravel, Vue.js, Flutter |
+| 🗄️ **Databases** | MySQL, PostgreSQL |
+| 🧰 **Tools** | Git, Postman, VS Code, Eclipse |
+| 📲 **Mobile** | Android SDK, Flutter |
+| 🌍 **Web & Maps** | HTML, CSS, Google Maps API, Leaflet.js, MapServer |
 
 ---
 
-## 🌍 Languages
+## 🌟 Featured Projects
 
-- 🇮🇹 Italian (Native)  
-- 🇬🇧 English (Working Proficiency)  
+- 🔐 **Zeepay Platform** – Full-stack USSD + fintech platform powering payments across West Africa
+- 🏥 **Open Hospital Customization** – Improved hospital data management systems in Ethiopia
+- 📡 **Real-Time Mapping System** – GPS & weather integration in Senegal
+- 🥇 **Hackathon Winner** – Modernized Italian café UX for H-Farm x Autogrill challenge
+- 💸 **Flutter Expense Tracker** – A simple, elegant budget app built in Dart
+
+---
+
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicolapunzi&show_icons=true&theme=tokyonight" alt="Nicola's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolapunzi&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nicolapunzi&bg_color=1a1b27&color=6adfcf&line=2fc5d4&point=1abc9c&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+## 🎓 Education & Certs
+
+- 🎓 M.Sc. in Biomedical Engineering, Università di Pisa  
+- 📊 Business Data Analysis – TAG Innovation School  
+- 💻 Codemaster Bootcamp – TAG Innovation School
+
+---
+
+## 💬 Languages
+
+- 🇮🇹 Italian (Native)
+- 🇬🇧 English (Working Knowledge)
 - 🇫🇷 French (Good)
 
 ---
 
-## 🤝 Let's Connect
+## 📫 Connect with Me
 
 - 📧 Email: [nicolapunzi3@gmail.com](mailto:nicolapunzi3@gmail.com)  
-- 🌐 LinkedIn: [linkedin.com/in/nicolapunzi](https://www.linkedin.com/in/nicolapunzi)  
-- 📱 Mobile: +39 339 214 6267 | +233 557 341 180  
+- 💼 LinkedIn: [linkedin.com/in/nicolapunzi](https://www.linkedin.com/in/nicolapunzi/)  
+- 📱 Mobile: +39 339 214 6267 / +233 557 341 180
 
 ---
 
-> “Technology is only meaningful when it solves real problems.”  
+> _"Technology is only meaningful when it solves real problems."_  
 > Let’s build something impactful.
 
