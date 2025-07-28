@@ -43,24 +43,6 @@
 - 📡 **Real-Time Mapping System** – GPS & weather integration in Senegal
 - 🥇 **Hackathon Winner** – Modernized Italian café UX for H-Farm x Autogrill challenge
 - 💸 **Flutter Expense Tracker** – A simple, elegant budget app built in Dart
-
----
-
-## 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicolapunzi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Nicola's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolapunzi&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nicolapunzi&bg_color=1a1b27&color=6adfcf&line=2fc5d4&point=1abc9c&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
-
 ---
 
 ## 🎓 Education & Certs
