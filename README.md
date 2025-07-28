@@ -49,7 +49,7 @@
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicolapunzi&show_icons=true&theme=tokyonight" alt="Nicola's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nicolapunzi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Nicola's GitHub Stats" />
 </p>
 
 <p align="center">
@@ -59,6 +59,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nicolapunzi&bg_color=1a1b27&color=6adfcf&line=2fc5d4&point=1abc9c&area=true&hide_border=true" alt="Activity Graph" />
 </p>
+
 
 ---
 
