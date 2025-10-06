@@ -27,7 +27,7 @@
 
 | Category     | Skills |
 |-------------|--------|
-| 💻 **Languages** | PHP, Java, Python, JavaScript, SQL |
+| 💻 **Languages** | PHP, Java, Python, SQL |
 | 🚀 **Frameworks** | Laravel, Vue.js, Flutter |
 | 🗄️ **Databases** | MySQL, PostgreSQL |
 | 🧰 **Tools** | Git, Postman, VS Code, Eclipse |
